@@ -5,8 +5,11 @@
   "files": [
     "generators"
   ],
-  "keywords": ["yeoman-generator"],
+  "keywords": [
+    "yeoman-generator"
+  ],
   "dependencies": {
-    "yeoman-generator": "^1.0.0"
+    "ts-node": "^10.9.2",
+    "yeoman-generator": "^7.1.1"
   }
 }

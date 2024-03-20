@@ -1,0 +1,7 @@
+When scripts begin to appear in the package.json file, do this to them:
+
+"scripts": {
+  ...
+  "scaffold:thing1": "ts-node node_modules/.bin/yo ./scaffold/thing1",
+  "scaffold:thing2": "ts-node node_modules/.bin/yo ./scaffold/thing2",
+}
