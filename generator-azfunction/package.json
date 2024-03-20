@@ -1,0 +1,15 @@
+{
+  "name": "generator-azfunction",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "yeoman-generator": "^7.1.1"
+  }
+}
